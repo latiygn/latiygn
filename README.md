@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @latiygn.
-- 👀 I’m interested in Web Design & Coding.
-- 🌱 I’m currently learning Web Design.
+- 👀 I’m interested in Mobile & Web Design (UX/UI design).
+- 🌱 I’m currently learning UX/UI design.
 - 💞️ I’m looking to collaborate on small to medium-sized projects.
 - 📫 You can get in touch with me via: LatiYgn[at]Gmail[dot]com. 
